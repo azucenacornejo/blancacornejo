@@ -1,0 +1,20 @@
+var alumnos=Array(
+	Array("1","Ruben Valeriano","Montoya Luna","Dia","Masculino"),
+	Array("2","Isabel Valeria","Neira Romero","Dia","Femenino"),
+	Array("3","Rodrigo Mario","Romero Quispe","Dia","Masculino"),
+	Array("4","Elena Luz","Luna Marroquin","Tarde","Femenino"),
+	Array("5","José María","Lopez Diaz","Noche","Masculino"),
+	Array("6","Erika Bony","Puma Coila","Dia","Femenino"),
+	Array("7","Francisco Asis","Mamani Chuctaya","Tarde","Masculino"),
+	Array("8","Josefa Marin","Orozco Huanca","Noche","Femenino"),
+	Array("9","Rosa Tamara","Sarmiento Ylachoque","Tarde","Femenino"),
+	Array("10","Richard Madue","Torres Aguilar","Tarde","Masculino"),
+	Array("11","Suly Lesli","Rivarrey Quispe","Dia","Femenino"),
+	Array("12","Katia Beatriz","Valencia Chura","Tarde","Femenino"),
+	Array("13","Bethy","Morales Llerena","Noche","Femenino"),
+	Array("14","Luis Antonio","Valencia Puma","Dia","Masculino"),
+	Array("15","Rolando Alfredo","Perez Manrique","Tarde","Masculino"),
+	Array("16","María Rosario","Monson Flores","Noche","Femenino"),
+	Array("17","Lucero Ebony","Valencia Chura","Dia","Femenino"),
+	Array("18","Gustavo Enrique","Mamani Quispe","Noche","Masculino")
+);

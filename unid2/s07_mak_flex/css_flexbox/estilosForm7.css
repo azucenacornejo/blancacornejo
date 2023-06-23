@@ -1,0 +1,51 @@
+.contenedor1{
+    background-color: aqua;
+    display: flex;
+    flex-flow: column wrap;
+   
+}
+
+.contenedor1 div{
+    background-color: antiquewhite;
+    margin:  10px;
+    padding: 5px;
+    /*width: 50px;*/
+    flex-basis: 100px
+}
+
+
+    
+   /*@media (max-width: 500px){
+       contenedor1 {
+           flex-wrap: wrap;
+           margin: auto;
+           padding: auto;
+           background-color: blueviolet;
+
+        }
+        
+    }
+
+
+
+    /*@media screen and (max-width: 700px) {
+        .contenedor1{
+            flex-direction: column;
+        }
+        
+    }*/
+    
+    /*@media screen and (max-width: 700px){
+        .contenedor1{
+            flex-flow: row-wrap;
+            flex-direction:  row-reverse;
+            
+            background-color: rgb(218, 255, 7);
+        }
+    }
+
+
+
+
+
+    
